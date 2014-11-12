@@ -1,0 +1,26 @@
+//Jeffrey Le
+//Tax
+//Will display tax based on martial status and income
+
+import java.util.Scanner;
+
+public class Tax {
+
+	public static void main(String[] args) {
+		
+		float TaxableIncome, FederalTax;
+		int status;
+		system.out.print("Please enter status 1 for single or 2  for married");
+		Scanner keyboard = new Scanner(System.in)
+		
+		status= keyboard.nextInt();
+		system.out.println("Please enter Income");
+		
+		ScannerIncome = new Scanner(System.in);
+		Taxable income= Income.nextInt();
+		
+		FederalTax = //Im not sure what to do at this point
+
+	}
+
+}
